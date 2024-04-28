@@ -1,32 +1,46 @@
-.aboutme{
+.aboutme {
     background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-12-full.jpg");
     height: 100vh;
     background-size: 100% 100%
 }
-.myimage{
+
+.myimage {
     padding: 50px;
 }
-.mainabout{
+
+.mainabout {
     display: flex
 }
-.aboutmedata{
+
+.aboutmedata {
     margin-top: 8rem;
 }
-.aboutmedata h1{
+
+.aboutmedata h1 {
     font-size: 70px;
     color: #E65C19;
-    text-shadow:3px 2px 5px #E65C19;
+    text-shadow: 3px 2px 5px #E65C19;
 }
-.aboutmedata p{
+
+.aboutmedata p {
     margin-top: 2rem;
     font-size: 18px;
     color: white;
 }
-.heading{
+
+.heading {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 3rem;
     color: rgb(127, 16, 232);
-    
+}
+
+.academics .card {
+    margin: 40px 100px;
+    padding: 20px;
+    border: 2px solid #E65C19;
+    background: linear-gradient(to right, rgb(131, 110, 198), rgb(122, 29, 120));
+    color: white;
+    border-radius: 1rem;
 }

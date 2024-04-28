@@ -1,6 +1,6 @@
 import "../css/navbar.css";
 import logo from "../assets/web.png";
-import {NavLink} from "react-router-dom"
+import { NavLink } from "react-router-dom";
 const Navbar = () => {
   return (
     <>
@@ -20,7 +20,7 @@ const Navbar = () => {
           </button>
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
             <ul className="navbar-nav">
-            <li className="nav-item">
+              <li className="nav-item">
                 <NavLink className="nav-link" to="/">
                   Home
                 </NavLink>
@@ -37,12 +37,12 @@ const Navbar = () => {
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/">
-                  Contact
+                  Projects
                 </NavLink>
               </li>
               <li className="nav-item dropdown">
                 <NavLink className="nav-link" to="/">
-                  Project
+                  Contact
                 </NavLink>
               </li>
             </ul>
