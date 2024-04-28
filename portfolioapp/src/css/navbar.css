@@ -5,8 +5,10 @@
 .logoimg{
     height: 70px;
     padding: 10px;
+    margin-left: 2rem;
 }
 .navbar-collapse{
     display: flex;
     justify-content: end;
+    margin-right: 2rem;
 }

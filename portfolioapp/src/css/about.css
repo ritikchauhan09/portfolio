@@ -1,0 +1,32 @@
+.aboutme{
+    background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-12-full.jpg");
+    height: 100vh;
+    background-size: 100% 100%
+}
+.myimage{
+    padding: 50px;
+}
+.mainabout{
+    display: flex
+}
+.aboutmedata{
+    margin-top: 8rem;
+}
+.aboutmedata h1{
+    font-size: 70px;
+    color: #E65C19;
+    text-shadow:3px 2px 5px #E65C19;
+}
+.aboutmedata p{
+    margin-top: 2rem;
+    font-size: 18px;
+    color: white;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+    color: rgb(127, 16, 232);
+    
+}
