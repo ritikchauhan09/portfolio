@@ -1,0 +1,22 @@
+.intromain{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5rem;
+}
+.intro{
+    color: white;
+}
+
+.intro h1{
+    font-size: 6rem;
+    margin-top: 3rem;
+}
+
+.intro p{
+    margin-top: 40px;
+}
+.devimg img{
+   border-radius: 50%; 
+   margin-right: 6rem; 
+   margin-top: 5rem;
+}
