@@ -1,0 +1,22 @@
+.maincontact{
+    background: radial-gradient(orangered , orange);
+    height: 100vh;
+}
+.maincontact main{
+    background-color: white;
+    height: 79vh;
+    background-size: 100% 100%;
+}
+.mainc{
+    height: 60vh;
+    background-color: white;
+    margin: 50px 130px;
+    border-radius: 1rem;
+    box-shadow: 3px 3px 30px orangered;
+    display: flex;
+    
+}
+.contactimg img{
+    height: 400px;
+    margin: 30px;
+}
